@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Kauã Sergio Ramos Faria
+# Kauã Sergio Ramos Faria
 
 **`Computer Engineering Student @ CEFET-MG`**
 
