@@ -1,8 +1,8 @@
 # Kauã Sergio Ramos Faria
 
-**`Computer Engineering Student @ CEFET-MG`**
+**`Computer Engineering Student @ UFCIMG`**
 
-I'm a 21-year-old Computer Engineering student at CEFET-MG based in Minas Gerais, Brazil. I'm super passionate about systems development, automation, and continuous learning. My main focus right now is building efficient solutions using Python and Django, while also diving deep into algorithms to tackle real-world market challenges.
+I'm a 21-year-old Computer Engineering student at the Federal University of Science and Innovation of Minas Gerais (UFCIMG) based in Belo Horizonte, Brazil. I'm super passionate about systems development, automation, and continuous learning. My main focus right now is building efficient solutions using Python and Django, while also diving deep into algorithms to tackle real-world market challenges.
 
 ---
 
@@ -35,10 +35,10 @@ I'm a 21-year-old Computer Engineering student at CEFET-MG based in Minas Gerais
 ---
 ### 🛠️ Projects & Experience
 
-- 🚀 **VUEI (CEFET-MG) | Tech Lead & Mentor:** 
+- 🚀 **VUEI (UFCIMG) | Tech Lead & Mentor:** 
   Coordinating a team of technical high school students and managing the full development lifecycle (via Sprints) of two core platforms built with **Python** and **Django**:
   - **Vitrine:** An institutional portal for Junior Enterprises. I architected the database and back-end logic to handle secure authentication, dynamic profiles, and in-place editing. The system renders customized enterprise services and contacts while providing fluid UI animations and custom display toggles.
-  - **AI Chatbot:** An intelligent assistant leveraging Machine Learning concepts. The model is being trained on CEFET-MG's institutional regulations and Junior Enterprise (EJ) guidelines to accurately answer complex queries, streamline user interactions, and automate support within the ecosystem.
+  - **AI Chatbot:** An intelligent assistant leveraging Machine Learning concepts. The model is being trained on UFCIMG's institutional regulations and Junior Enterprise (EJ) guidelines to accurately answer complex queries, streamline user interactions, and automate support within the ecosystem.
 
 - 🏢 **Commit Jr | Former Projects Director:** 
   Spearheaded the technological evolution of the automation department. I led the migration of legacy Google Apps Script tools to robust **Python** architectures, successfully developing and delivering the company's first Python-based commercial products and pricing dashboards for real-world clients.
